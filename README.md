@@ -1,7 +1,8 @@
 # news-image-20261120-v2 — "THE WORLD ATLAS"
 
-![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)
-![status](https://img.shields.io/badge/status-v2%20iteration-orange)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/moonku-ai/news-image-20261120-v2/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/moonku-ai/news-image-20261120-v2/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 Entry for the [make.fun](https://make.fun/bounty/news-image-20261120)
 bounty **news-image-20261120** — "Sum up 20 November's world news in one
